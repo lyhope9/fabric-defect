@@ -1,0 +1,2 @@
+model_checkpoint_path: "cdaen.ckpt"
+all_model_checkpoint_paths: "cdaen.ckpt"
